@@ -10,7 +10,7 @@ struct coord
 {
    int x;
    int y;
-   //result
+   //miniproject
 };
 
 struct PacMan
